@@ -1,0 +1,10 @@
+Requirement_ID,Requirement,Test_Case_ID,Status
+REQ_001,User Login,TC_001,Pass
+REQ_002,Invalid Login Validation,TC_002,Pass
+REQ_003,User Registration,TC_004,Pass
+REQ_004,Product Search,TC_006,Pass
+REQ_005,Wishlist Functionality,TC_008,Fail
+REQ_006,Add To Cart,TC_009,Pass
+REQ_007,Checkout Process,TC_011,Pass
+REQ_008,Profile Update,TC_013,Pass
+REQ_009,Logout Functionality,TC_014,Pass
