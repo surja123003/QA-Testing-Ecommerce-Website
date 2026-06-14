@@ -1,0 +1,6 @@
+Bug_ID,Module,Summary,Severity,Priority,Status
+BUG_001,Wishlist,Product not added to wishlist after clicking wishlist icon,Medium,High,Open
+BUG_002,Checkout,Checkout button remains disabled after entering valid details,Critical,High,Fixed
+BUG_003,Login,Password field accepts leading spaces,Low,Medium,Open
+BUG_004,Search,Search results not sorted correctly,Low,Low,Open
+BUG_005,Cart,Cart count not updated immediately after product addition,Medium,Medium,Fixed
