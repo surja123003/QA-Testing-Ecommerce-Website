@@ -1,0 +1,11 @@
+Scenario_ID,Module,Scenario_Description
+TS_001,Login,Verify login functionality with valid credentials
+TS_002,Login,Verify login functionality with invalid credentials
+TS_003,Registration,Verify new user registration
+TS_004,Search,Verify product search functionality
+TS_005,Wishlist,Verify add product to wishlist
+TS_006,Cart,Verify add product to cart
+TS_007,Cart,Verify remove product from cart
+TS_008,Checkout,Verify successful checkout process
+TS_009,Profile,Verify profile update functionality
+TS_010,Logout,Verify logout functionality
